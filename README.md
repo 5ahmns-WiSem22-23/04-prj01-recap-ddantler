@@ -2,7 +2,7 @@
 
 ## Updates
 
-### Update I.:
+### Update I.
 Working Movement System with movement locked camera
 Playermodel (Graphic created by myself)
 Map Layout (Graphics created by myself)
